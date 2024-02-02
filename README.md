@@ -8,4 +8,4 @@ C# como lenguaje de programación para propósitos creativos , asi como el funci
 
 > C# fue desarrollado por Microsoft y se presentó por primera vez en 2000 como parte de la plataforma .NET.
 
-~~This was mistaken text~~ 
+~~no es C~~ 
