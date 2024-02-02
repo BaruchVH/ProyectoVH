@@ -19,3 +19,19 @@ Cita obtenida de  [Pagina](https://dotnet.microsoft.com/es-es/languages/csharp#:
 - [x] C# puede ayudar a programar el acceso de una empresa? 
 - [ ] https://uss.com.ar/corporativo/instalar-un-control-de-acceso-en-una-empresa/
 - [ ] construccion del control de acceso  :tada:
+
+
+> [!NOTE]
+> Crea una base de datos para almacenar la información de los usuarios y sus permisos de acceso.
+
+> [!TIP]
+> Define una clase en C# para representar a los usuarios. Esta clase podría contener propiedades como nombre, ID, contraseña, roles, etc.
+
+> [!IMPORTANT]
+> Implementa un sistema de autenticación para verificar las credenciales del usuario al ingresar al sistema. Puedes utilizar nombres de usuario y contraseñas o algún método de autenticación biométrica.
+
+> [!WARNING]
+> Asigna roles o permisos a los usuarios y verifica estos roles para autorizar el acceso a recursos específicos.
+
+> [!CAUTION]
+> Crea una interfaz de usuario para interactuar con el sistema. Esto podría incluir la entrada de credenciales y la visualización del estado de acceso.
