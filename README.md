@@ -15,3 +15,7 @@ Cita obtenida de  [Pagina](https://dotnet.microsoft.com/es-es/languages/csharp#:
 100. C# es ampliamente utilizado en el desarrollo web a través de la plataforma ASP.NET, que permite construir aplicaciones web robustas y escalables.
        - C# admite eventos y delegados, lo que permite implementar el modelo de programación basado en eventos.
          - LINQ es una característica de C# que permite realizar consultas directamente en el código, facilitando el manejo y manipulación de datos.
+
+- [x] #739
+- [ ] https://uss.com.ar/corporativo/instalar-un-control-de-acceso-en-una-empresa/
+- [ ] construccion del control de acceso  :tada:
